@@ -1,0 +1,12 @@
+com\federamos\veterinaria\service\DuenioService.class
+com\federamos\veterinaria\VeterinariaApplication.class
+com\federamos\veterinaria\controller\MascotaController.class
+com\federamos\veterinaria\service\IDuenioService.class
+com\federamos\veterinaria\controller\DuenioController.class
+com\federamos\veterinaria\model\Duenio.class
+com\federamos\veterinaria\dto\DuenioMascotaDTO.class
+com\federamos\veterinaria\service\IMascotaService.class
+com\federamos\veterinaria\model\Mascota.class
+com\federamos\veterinaria\repository\IDuenioRepository.class
+com\federamos\veterinaria\service\MascotaService.class
+com\federamos\veterinaria\repository\IMascotaRepository.class

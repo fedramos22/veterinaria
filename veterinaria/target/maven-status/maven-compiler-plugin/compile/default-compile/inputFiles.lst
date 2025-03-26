@@ -1,0 +1,12 @@
+D:\Proyectos\java_springboot\veterinaria\src\main\java\com\federamos\veterinaria\controller\DuenioController.java
+D:\Proyectos\java_springboot\veterinaria\src\main\java\com\federamos\veterinaria\controller\MascotaController.java
+D:\Proyectos\java_springboot\veterinaria\src\main\java\com\federamos\veterinaria\dto\DuenioMascotaDTO.java
+D:\Proyectos\java_springboot\veterinaria\src\main\java\com\federamos\veterinaria\model\Duenio.java
+D:\Proyectos\java_springboot\veterinaria\src\main\java\com\federamos\veterinaria\model\Mascota.java
+D:\Proyectos\java_springboot\veterinaria\src\main\java\com\federamos\veterinaria\repository\IDuenioRepository.java
+D:\Proyectos\java_springboot\veterinaria\src\main\java\com\federamos\veterinaria\repository\IMascotaRepository.java
+D:\Proyectos\java_springboot\veterinaria\src\main\java\com\federamos\veterinaria\service\DuenioService.java
+D:\Proyectos\java_springboot\veterinaria\src\main\java\com\federamos\veterinaria\service\IDuenioService.java
+D:\Proyectos\java_springboot\veterinaria\src\main\java\com\federamos\veterinaria\service\IMascotaService.java
+D:\Proyectos\java_springboot\veterinaria\src\main\java\com\federamos\veterinaria\service\MascotaService.java
+D:\Proyectos\java_springboot\veterinaria\src\main\java\com\federamos\veterinaria\VeterinariaApplication.java
